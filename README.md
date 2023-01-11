@@ -14,8 +14,8 @@
 <img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Formulario%20para%20contratacion%20de%20servicio.jpg" width="1080" height="930">
 <br><br>
 <b> 5- Vista con el lista de canales</b>
-<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Lista%20de%20canales.png" width="1080" height="3460">
+<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Lista%20de%20canales.png" width="1920" height="3065">
 <b> 6- Vista de Ayuda</b>
-<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Ayuda.png" width="1080" height="1500">
+<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Ayuda.png" width="1920" height="1590">
 <b>  7-Vista Avisos Legales</b>
-<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Ayuda.png" width="1080" height="1500">
+<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Avisos%20legales.png" width="1080" height="950">
