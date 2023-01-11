@@ -11,7 +11,7 @@
 <img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Formulario%20para%20contratacion%20de%20servicio.jpg" width="800" height="800">
 <br><br>
 <b> 4- Formulario para reportar fallo</b>
-<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Formulario%20para%20contratacion%20de%20servicio.jpg" width="600" height="600">
+<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Formulario%20para%20contratacion%20de%20servicio.jpg" width="67500" height="500">
 <br><br>
 <b> 5- Vista con el lista de canales</b>
 <img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Lista%20de%20canales.png" width="1920" height="3065">
