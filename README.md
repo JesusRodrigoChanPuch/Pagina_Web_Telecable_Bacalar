@@ -16,6 +16,6 @@
 <b> 5- Vista con el lista de canales</b>
 <img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Lista%20de%20canales.png" width="1920" height="3065">
 <b> 6- Vista de Ayuda</b>
-<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Ayuda.png" width="900" height="1300">
+<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Ayuda.png" width="900" height="1080">
 <b>  7-Vista Avisos Legales</b>
-<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Avisos%20legales.png" width="1080" height="950">
+<img src="https://github.com/JesusRodrigoChanPuch/Pagina_Web_Telecable_Bacalar/blob/main/Imagenes%20del%20sistema/Avisos%20legales.png" width="1080" height="750">
